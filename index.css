@@ -413,26 +413,7 @@ transition:1s
     margin-top: 15px;
 }
 
-@media (max-width: 768px) {
-  nav {
-    flex-direction: column;
-  }
 
-  nav ul {
-    flex-direction: column;
-    width: 100%;
-    text-align: center;
-  }
-
-  nav ul li {
-    padding: 10px 0;
-  }
-}
-.container {
-  width: 90%;
-  max-width: 1200px;
-  margin: auto;
-}
 
 /* Grid layout */
 .products {
