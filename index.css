@@ -6,6 +6,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     list-style-type: none;
+    overflow-x:hidden;
 }
 #header{
   display:flex;
